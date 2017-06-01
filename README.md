@@ -1,2 +1,4 @@
 # HiJacks_Troll
-Shere music with friends by youtube link in android app.
+
+This is an Android app shering music with friends by youtube link.
+
